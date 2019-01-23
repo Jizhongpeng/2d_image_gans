@@ -1,5 +1,6 @@
 # gan_3d_point_cloud
-GAN for Point Cloud Object Detection
+
+## GAN for Point Cloud Object Detection
 
 For my independent project, I’m interested in tackling a problem in robot
 perception. While I am fascinated by many other areas of robotics such as control,
@@ -59,3 +60,20 @@ from NuTonomy or some other source
 
 Sources:
 [1] https://arxiv.org/abs/1707.02392 - paper on point cloud shape modification
+
+## Timeline
+1/17 - 1/24: initial meeting, share ideas, preliminary research
+
+1/24 - 1/31: collect working/well documented GAN point clouds
+narrow down point cloud library(s), narrow down equipment, create skeleton for
+GAN in python, work through PCL tutorials, work through Rviz refresher
+
+1/31 - 2/7: show manipulation of one point cloud, collect more object data,
+begin building database, display in Rviz
+
+2/7 - 2/14:
+2/14 - 2/21:
+2/21 - 2/28:
+2/28 - 3/7:
+3/7 - 3/14:
+3/14 - 3/21:
